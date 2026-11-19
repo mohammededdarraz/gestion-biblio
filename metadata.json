@@ -1,0 +1,8 @@
+{
+  "name": "Remix BiblioTech - Gestion de Bibliothèque",
+  "description": "Application complète et moderne de gestion des livres, adhérents, emprunts et retours pour bibliothèque.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
